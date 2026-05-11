@@ -1,0 +1,9 @@
+{
+  "name": "Omni Power Flow Card",
+  "content_in_root": false,
+  "filename": "omni-power-flow-card.js",
+  "country": ["ES", "MX", "AR", "US", "GB"],
+  "homeassistant": "2023.4.0",
+  "render_readme": true,
+  "iot_class": "Local Polling"
+}
